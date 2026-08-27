@@ -7,7 +7,7 @@ cask "betterbar" do
   desc "Customizable brutalist dock alternative and status bar for macOS"
   homepage "https://github.com/josmanvis/betterbar"
 
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "BetterBar.app"
 
