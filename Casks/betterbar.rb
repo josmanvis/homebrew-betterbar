@@ -1,6 +1,6 @@
 cask "betterbar" do
-  version "0.10.0"
-  sha256 "260bf3f71baf52b4899b1db6adb2d0577b87bddd705fdfa392b75725b703bc9e"
+  version "0.11.1"
+  sha256 "929b862b2d2c69675eb483569a733613ce05e526a5891107faf52d43fbb2d394"
 
   url "https://github.com/josmanvis/betterbar/releases/download/v#{version}/BetterBar_#{version}_universal.dmg"
   name "BetterBar"
